@@ -39,10 +39,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Socials:**
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://riturajkumar.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rituraj-kumar-788867288/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riturajkumar15384@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://riturajkumar.onrender.com/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rituraj-kumar-788867288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riturajkumar15384@gmail.com)
 
 <!-- Hacker Typing Animation -->
 <div align="center">
@@ -51,12 +48,13 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Activity:**
+<!-- 📌 PINNED: GitHub Activity Section - Center of Profile -->
+# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Activity:
 
 <!-- 🏆 GitHub Trophies -->
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=-C,-B)](https://github.com/riturajkumar01)
+[![trophy](https://github-profile-trophy.vercel.app/?username=riturajkumar01&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/riturajkumar01)
 
 </div>
 
@@ -68,20 +66,19 @@
 </div>
 
 <!-- 📊 Contribution Badges -->
-<div align="center">
 
-<img src="https://img.shields.io/badge/Total_Contributions-1,190+-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
-<img src="https://img.shields.io/badge/2025_Contributions-121-blue?style=for-the-badge&logo=github&logoColor=white" alt="2025 Contributions" />
-<img src="https://img.shields.io/badge/2026_Contributions-54+-orange?style=for-the-badge&logo=github&logoColor=white" alt="2026 Contributions" />
-<img src="https://img.shields.io/badge/Last_Year-1,190+-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Last Year" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Contributions-1,190-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/2025_Contributions-121-blue?style=for-the-badge&logo=github&logoColor=white" alt="2025 Contributions" />
+  <img src="https://img.shields.io/badge/2026_Contributions-54-orange?style=for-the-badge&logo=github&logoColor=white" alt="2026 Contributions" />
+  <img src="https://img.shields.io/badge/Last_Year-1,190-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Last Year" />
+</p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Active_Days-34-blueviolet?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Active Days" />
-<img src="https://img.shields.io/badge/Avg_Commits/Day-5.1-ff69b4?style=for-the-badge&logo=git&logoColor=white" alt="Avg Commits" />
-<img src="https://img.shields.io/badge/Repositories-2+-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Active_Days-34-blueviolet?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Active Days" />
+  <img src="https://img.shields.io/badge/Avg_Commits/Day-5.1-ff69b4?style=for-the-badge&logo=git&logoColor=white" alt="Avg Commits" />
+  <img src="https://img.shields.io/badge/Repositories-2+-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+</p>
 
 <!-- 🌟 Achievements -->
 <div align="center">
@@ -116,7 +113,7 @@
 </div>
 
 <!-- 🐍 Contribution Snake -->
-### <div align="center">🐍 Contribution Snake</div>
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -130,37 +127,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> **Tech Stack:**
-
-<div align="center">
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-</div>
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-### <div align="center">✍️ Random Dev Quote</div>
+### ✍️ Random Dev Quote
 
 <div align="center">
 
