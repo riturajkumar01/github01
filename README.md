@@ -27,27 +27,97 @@
 
 > 🛸 *A powerful Python script that automates your GitHub activity — smart, fast, and fully customizable.*
 
+This project provides a suite of tools to generate and manage GitHub contributions, making it easy to maintain a consistent activity graph. It's built with a modular architecture, allowing for easy extension and customization.
+
+### Key Features
+
 <div align="center">
 <table>
 <tr>
 <td align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="70"/>
-<br><b>⚡ Fast</b>
-<br><sub>Minutes to setup</sub>
+<br><b>⚡ Fast Setup</b>
+<br><sub>Get started in minutes</sub>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="70"/>
-<br><b>🎨 Customizable</b>
-<br><sub>Full control</sub>
+<br><b>🎨 Highly Customizable</b>
+<br><sub>Full control over contributions</sub>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="70"/>
-<br><b>🔧 Simple</b>
-<br><sub>One command</sub>
+<br><b>🔧 Simple to Use</b>
+<br><sub>Single command execution</sub>
 </td>
 <td align="center">
 <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="70"/>
-<br><b>🐍 Python</b>
+<br><b>🐍 Python-Powered</b>
+<br><sub>Reliable and extensible</sub>
+</td>
+</tr>
+</table>
+</div>
+
+### Project Structure
+
+The project is organized to be clean and maintainable:
+
+```
+github01/
+├── src/
+│   ├── main.py
+│   ├── contribute.py
+│   ├── make_march_green.py
+│   ├── utils.py
+│   └── config.py
+├── tests/
+│   └── test_contribute.py
+├── docs/
+│   └── guide.md
+├── data/
+│   └── config.json
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
+
+-   `src/`: All source code for the automation scripts.
+-   `tests/`: Unit tests to ensure functionality.
+-   `docs/`: Documentation and user guides.
+-   `data/`: Configuration files and sample data.
+
+### Getting Started
+
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/riturajkumar01/github01.git
+    cd github01
+    ```
+2.  **Install dependencies (if any):**
+    ```bash
+    pip install -r requirements.txt
+    ```
+3.  **Run the main script:**
+    ```bash
+    python src/main.py
+    ```
+
+### Contribution Log
+
+<details>
+<summary>Click to view legacy contribution log</summary>
+
+This section contains the historical log of contributions made by this script.
+
+</details>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
 <br><sub>Clean code</sub>
 </td>
 </tr>

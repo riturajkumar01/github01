@@ -1,0 +1,8 @@
+{
+    "username": "riturajkumar01",
+    "repository_name": "github01",
+    "settings": {
+        "allow_weekends": false,
+        "commit_frequency_percent": 80
+    }
+}

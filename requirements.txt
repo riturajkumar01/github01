@@ -1,0 +1,5 @@
+# requirements.txt
+# No external libraries are used in the current scripts,
+# but this file is here for future dependencies.
+# Example:
+# requests==2.25.1
