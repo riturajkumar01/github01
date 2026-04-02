@@ -16,6 +16,8 @@ This repository is organized to keep public-facing docs readable while preservin
 2. Run scripts from src as needed.
 3. Use docs and guides for workflow details.
 
+start
+
 ## Project Layout
 - src: Core scripts and automation logic
 - docs: User-facing guidance
@@ -25,6 +27,3 @@ This repository is organized to keep public-facing docs readable while preservin
 ## Notes
 - Educational and workflow demonstration purposes only.
 - Keep personal credentials and tokens out of version-controlled files.
-
-## Internal Tracking
-Operational history artifacts are maintained in internal paths to keep this README concise.
